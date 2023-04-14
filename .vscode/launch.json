@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "gotabang_mobile",
+            "cwd": "gotabang_mobile",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "gotabang_mobile (profile mode)",
+            "cwd": "gotabang_mobile",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "gotabang_mobile (release mode)",
+            "cwd": "gotabang_mobile",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
