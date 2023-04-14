@@ -1,2 +1,2 @@
 # Gotabang-Mobile
-the mobile application for GOTABANG
+The Official Mobile Application For GOTABANG
